@@ -1,0 +1,22 @@
+{
+  "name": "test-cmd-nodejs",
+  "version": "1.0.0",
+  "description": "tests with running terminal commands from nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dambergn/test-cmd-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dambergn/test-cmd-nodejs/issues"
+  },
+  "homepage": "https://github.com/dambergn/test-cmd-nodejs#readme",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
+}
